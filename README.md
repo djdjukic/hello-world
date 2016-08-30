@@ -1,2 +1,5 @@
 # hello-world
-Trying out this new-fangled CVS thing
+
+Hello, world!
+
+I don't know Markdown :D
